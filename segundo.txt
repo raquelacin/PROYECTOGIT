@@ -1,1 +1,2 @@
 Este es el segundo fichero de master
+Y modifico la segunda linea del fichero de la rama 1 que acabo de crear.
